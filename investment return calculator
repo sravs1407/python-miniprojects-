@@ -15,7 +15,7 @@ for i in range(time):
   print("$ {} ) monthly contribution for the next year is : {} \n\t|| total amount :  {}".format(1+i,yinvest/12,tot))
 print("The Total Amount after the age '{}' is {}".format(endage,tot))
 
-output:
+#'''output:
 enter principle amount:5000
 enter monthly contribution:500
 enter rate of investment:15
@@ -113,4 +113,4 @@ $ 44 ) monthly contribution for the next year is : 4278.575139758487
 	|| total amount :  34078032.020903915
 $ 45 ) monthly contribution for the next year is : 4492.503896746412 
 	|| total amount :  39248781.11096817
-The Total Amount after the age '65' is 39248781.11096817
+The Total Amount after the age '65' is 39248781.11096817'''
